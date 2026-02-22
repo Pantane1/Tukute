@@ -40,7 +40,7 @@ External Services (Planned)
 
 ## 📂 Project Structure
 ```
-meeting-app/ │ ├── server.js ├── package.json │ ├── config/ │   └── db.js │ ├── routes/ │   ├── participants.js │   └── meetings.js │ ├── controllers/ │   ├── participantController.js │   └── meetingController.js │ ├── services/ │   ├── emailService.js │   ├── smsService.js │   └── mpesaService.js │ ├── views/ │   ├── index.ejs │   ├── participants.ejs │   ├── addParticipant.ejs │   ├── createMeeting.ejs │   ├── initializeMeeting.ejs │   ├── dashboard.ejs │   └── history.ejs │ └── public/ └── style.css
+Tukute/ │ ├── server.js ├── package.json │ ├── config/ │   └── db.js │ ├── routes/ │   ├── participants.js │   └── meetings.js │ ├── controllers/ │   ├── participantController.js │   └── meetingController.js │ ├── services/ │   ├── emailService.js │   ├── smsService.js │   └── mpesaService.js │ ├── views/ │   ├── index.ejs │   ├── participants.ejs │   ├── addParticipant.ejs │   ├── createMeeting.ejs │   ├── initializeMeeting.ejs │   ├── dashboard.ejs │   └── history.ejs │ └── public/ └── style.css
 
 ```
 ---
